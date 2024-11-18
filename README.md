@@ -2,8 +2,6 @@
 
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Panthaweekan&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio stats" /></p>
 
-I'm working on web dev and social research.
-
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
