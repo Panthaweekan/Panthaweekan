@@ -1,6 +1,6 @@
 # Welcome to my universe ♾️
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Panthaweekan&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio stats" /></p>
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=Panthaweekan&show_icons=true&locale=en&theme=tokyonight" alt="Panthaweekan stats" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
