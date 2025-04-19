@@ -31,7 +31,7 @@
 ![Go Fiber](https://img.shields.io/badge/Go_Fiber-00ADD8?style=flat&logo=go&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white) (Learning)
 
-**Databases:**  
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
@@ -49,13 +49,6 @@
 - **Teamwork** - Collaborative & supportive approach
 - **Adaptability** - Quick learner in new environments
 - **Abstract Thinking** - Conceptualizing complex systems
-
----
-
-### 🔥 Highlights  
-- 🏗️ Built **scalable web apps** using Go, React, and PostgreSQL.  
-- 🎓 **Computer Engineering** student at Chiang Mai University.  
-- ♾️ Passionate about **Hexagonal architecture**.
 
 ---
 
