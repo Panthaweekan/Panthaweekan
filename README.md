@@ -63,7 +63,7 @@ Owned two production apps end-to-end — a real-time room reservation system ado
 | **SD-Booking** | Go · React · TypeScript · PWA | Real-time room booking for 500+ faculty users — conflict detection, push notifications, live in production |
 | **FitJourney** | Next.js · Supabase · OpenAI · Vercel | Personal fitness PWA — workout logging, nutrition, AI meal scanning. built it because nothing else did it the way I wanted |
 | **Twitch TTS Bot** | Bun · Edge TTS · tmi.js | Real-time TTS piped straight from memory → zero disk I/O; priority queue + anti-spam; Thai & English voices |
-| **LongPlan** *(thesis)* | Go · React | Study plan validator using topological sort + cycle detection |
+| **LongPlan** *(thesis)* | Go · React | Study plan validator for Engineering Faculty Student |
 
 ---
 
